@@ -1,1 +1,1 @@
-# ai-ml-with-python-and-knime-2023
+# Artificial Intelligence and Machine Learning with Python and KNIME 2023 Course
